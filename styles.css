@@ -1,0 +1,19 @@
+.doc-link {
+  text-decoration: none;
+  color: black;
+  border-top: 1px solid;
+}
+.navbar ul {
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 88vh;
+}
+ul {
+  list-style-position: inside;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  width: 100%;
+}
